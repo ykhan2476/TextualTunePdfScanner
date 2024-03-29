@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360880764709",
+    "project_id": "hello-130a1",
+    "storage_bucket": "hello-130a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360880764709:android:d2b6edac1d7fea743e0ccc",
+        "android_client_info": {
+          "package_name": "com.example.textualtune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDapD5tjAWyS5yo4UaXQMT5kSEmlnviXDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360880764709:android:93feb95bd54ae7873e0ccc",
+        "android_client_info": {
+          "package_name": "com.hello.package"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDapD5tjAWyS5yo4UaXQMT5kSEmlnviXDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
