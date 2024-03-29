@@ -1,4 +1,6 @@
-# textualtune
+# TextualTunePdfScanner
+![Screenshot 2024-02-20 094752](https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/b2d9af50-3c5d-4ba0-938c-36008b234046)
+
 
 A new Flutter project.
 
