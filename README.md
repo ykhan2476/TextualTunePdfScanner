@@ -1,4 +1,6 @@
 # TextualTunePdfScanner
+Developed a Flutter app which searches for Telugu and Urdu words in PDF present in Unicode as well as in image format. It processes pdf to extract text and generate coherent outputs like story, article etc. It also translates pdf text into various Indian traditional languages.
+
 ![Screenshot 2024-02-20 094752](https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/b2d9af50-3c5d-4ba0-938c-36008b234046)
 
 
