@@ -9,6 +9,8 @@ Developed a Flutter app which searches for Telugu and Urdu words in PDF present 
     
 
 https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/166c2f96-af99-4eda-af70-b9fd8bd20d9c
+
+
 With TextualTune, navigating through complex PDFs has never been easier. Seamlessly search for Urdu,
 Telugu, and English text within both image and text formats, making information retrieval a breeze. 🌐
 
