@@ -4,17 +4,33 @@ Developed a Flutter app which searches for Telugu and Urdu words in PDF present 
 ![Screenshot 2024-02-20 094752](https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/b2d9af50-3c5d-4ba0-938c-36008b234046)
 
 
-A new Flutter project.
+<div>
+  <div align= "left">
+    
 
-## Getting Started
+https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/166c2f96-af99-4eda-af70-b9fd8bd20d9c
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+  </div>
+  <div align= "left">
+    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/ea84edf1-bc73-485c-b835-c20be080ae13
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  </div>
+  <div align= "center">
+    
+
+https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/c0957656-b63e-4f5a-ad93-69cae6a623d3
+
+
+  </div>
+  <div align= "right">
+    
+ 
+
+https://github.com/ykhan2476/TextualTunePdfScanner/assets/113904335/7be6edcc-f243-46f3-8870-352690ced8c3
+
+ </div>
+</div>
